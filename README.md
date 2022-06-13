@@ -1,687 +1,278 @@
-# [Argon Dashboard PRO Material-UI](https://demos.creative-tim.com/argon-dashboard-pro-material-ui?ref=adpmui-github-readme) [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social&logo=twitter)](https://twitter.com/intent/tweet?url=https%3A%2F%2Fdemos.creative-tim.com%2Fargon-dashboard-pro-react%2F%23%2F&text=Start%20your%20development%20with%20a%20Premium%20Dashboard%20for%20Material-UI%2C%20React%20and%20React%20Hooks.)
+# [Argon Dashboard 2 PRO MUI](http://demos.creative-tim.com/argon-dashboard-pro-material-ui/#/dashboards/default?ref=readme-adpmui) [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social&logo=twitter)](https://twitter.com/intent/tweet?url=https://www.creative-tim.com/product/argon-dashboard-pro-material-ui&text=Check%20Argon%20Dashboard%20Pro%React%20made%20by%20@CreativeTim%20#webdesign%20#dashboard%20#argondesign%20#react%20https://www.creative-tim.com/product/argon-dashboard-pro-material-ui)
 
+![version](https://img.shields.io/badge/version-3.0.0-blue.svg) [![GitHub issues open](https://img.shields.io/github/issues/creativetimofficial/ct-argon-dashboard-pro-material-ui.svg)](https://github.com/creativetimofficial/ct-argon-dashboard-pro-material-ui/issues?q=is%3Aopen+is%3Aissue) [![GitHub issues closed](https://img.shields.io/github/issues-closed-raw/creativetimofficial/ct-argon-dashboard-pro-material-ui.svg)](https://github.com/creativetimofficial/ct-argon-dashboard-pro-material-ui/issues?q=is%3Aissue+is%3Aclosed)
 
- ![version](https://img.shields.io/badge/version-1.0.0-blue.svg) [![GitHub issues open](https://img.shields.io/github/issues/creativetimofficial/ct-argon-dashboard-pro-material-ui.svg?maxAge=2592000)](https://github.com/creativetimofficial/ct-argon-dashboard-pro-material-ui/issues?q=is%3Aopen+is%3Aissue) [![GitHub issues closed](https://img.shields.io/github/issues-closed-raw/creativetimofficial/ct-argon-dashboard-pro-material-ui.svg?maxAge=2592000)](https://github.com/creativetimofficial/ct-argon-dashboard-pro-material-ui/issues?q=is%3Aissue+is%3Aclosed) [![Join the chat at https://gitter.im/NIT-dgp/General](https://badges.gitter.im/NIT-dgp/General.svg)](https://gitter.im/creative-tim-general/Lobby) [![Chat](https://img.shields.io/badge/chat-on%20discord-7289da.svg)](https://discord.gg/E4aHAQy)
+![Image](https://s3.amazonaws.com/creativetim_bucket/products/449/original/argon-dashboard-pro-material-ui.jpg)
 
+Start your Development with an Innovative Admin Template for MUI and React. If you like the look & feel of the hottest design trend right now, Argon, you will fall in love with this dashboard! It features a huge number of components built to fit together and look amazing.
 
-![Product Image](https://raw.githubusercontent.com/creativetimofficial/public-assets/master/argon-dashboard-pro-material-ui/argon-dashboard-pro-material-ui.jpg)
+**Fully Coded Elements**
 
-Start your development with a Premium Dashboard for [Material-UI](https://material-ui.com/?ref=creativetim), [React](https://reactjs.org/?ref=creativetim) and [React Hooks](https://reactjs.org/docs/hooks-intro.html?ref=creativetim).
+Argon Dashboard 2 PRO MUI is built with over 300 frontend individual elements, like buttons, inputs, navbars, nav tabs, cards, or alerts, giving you the freedom of choosing and combining. All components can take variations in color, which you can easily modify using MUI styled api and sx prop. You will save a lot of time going from prototyping to full-functional code because all elements are implemented. This Premium MUI Dashboard is coming with prebuilt design blocks, so the development process is seamless, switching from our pages to the real website is very easy to be done.
 
-**Core re-built from scratch**
+View [all components here](https://www.creative-tim.com/learning-lab/material-ui/alerts/argon-dashboard/).
 
-Argon is a completly new product built on our newest re-built from scratch framework structure that is meant to make our products more intuitive, more adaptive and, needless to say, so much easier to customize. Let Argon amaze you with its cool features and build tools and get your project to a whole new level.
+**Documentation built by Developers**
 
-**Fully coded components**
+Each element is well presented in very complex documentation.
 
-Argon Dashboard is built with over 200 individual components, giving you the freedom of choosing and combining. All components can take variations in color, that you can easily modify using Sass files.
-
-You will save a lot of time going from prototyping to full-functional code because all elements are implemented. This Dashboard is coming with pre-built examples, so the development process is seamless, switching from our pages to the real website is very easy to be done.
-
-Every element has multiple states for colors, styles, hover, focus, that you can easily access and use.
-
-**Complex Documentation**
-
-Each element is well presented in a very complex documentation. You can read more about [the idea behind this dashboard here](https://www.creative-tim.com/learning-lab/material-ui/overview/argon-dashboard). You can [check the components here](https://www.creative-tim.com/learning-lab/material-ui/alerts/argon-dashboard) and [the foundation here](https://www.creative-tim.com/learning-lab/material-ui/colors/argon-dashboard).
+You can read more about the [documentation here](https://www.creative-tim.com/learning-lab/material-ui/overview/argon-dashboard/).
 
 **Example Pages**
 
-If you want to get inspiration or just show something directly to your clients, you can jump start your development with our pre-built example pages. You will be able to quickly set up the basic structure for your web project.
+If you want to get inspiration or just show something directly to your clients, you can jump-start your development with our pre-built example pages. Every page is spaced well, with attractive layouts and pleasing shapes. From specially designed dashboards for smart homes, virtual reality, and automotives to CRM admins, Argon Dashboard 2 PRO MUI has everything you need to quickly set up an amazing project.
 
+View [example pages here](https://demos.creative-tim.com/argon-dashboard-pro-material-ui/#/dashboards/default).
+
+**HELPFUL LINKS**
+
+- View [Github Repository](https://github.com/creativetimofficial/ct-argon-dashboard-pro-material-ui)
+- Check [FAQ Page](https://www.creative-tim.com/faq)
+
+#### Special thanks
+
+During the development of this dashboard, we have used many existing resources from awesome developers. We want to thank them for providing their tools open source:
+
+- [MUI](https://mui.com/) - The React UI library for faster and easier web development.
+- [React Table](https://react-table.tanstack.com/) - Lightweight and extensible data tables for React.
+- [React Flatpickr](https://github.com/haoxins/react-flatpickr) - Useful library used to select date.
+- [React Select](https://react-select.com/) - A flexible and beautiful Select Input control for ReactJS with multiselect, autocomplete, async and creatable support.
+- [React Tag Input](https://betterstack.dev/projects/react-tag-input/) - React Tag Input is a robust, minimal and performant input field for creating multiple tags.
+- [React Countup](https://github.com/glennreyes/react-countup) - A lightweight React component that can be used to quickly create animations that display numerical data in a more interesting way.
+- [React ChartJS 2](http://reactchartjs.github.io/react-chartjs-2/#/) - Simple yet flexible React charting for designers & developers.
+- [Full Calendar](https://fullcalendar.io/) - Full-sized drag & drop event calendar.
+- [Dropzone](https://www.dropzonejs.com/) - An open source library that provides drag & drop file uploads with image previews.
+- [React Kanban](https://github.com/asseinfo/react-kanban) - Kanban/Trello board lib for React.
+- [React Images Viewer](https://guonanci.github.io/react-images-viewer/) - A simple, responsive images viewer component for ReactJS.
+- [React Quill](https://github.com/zenoamaro/react-quill) - A free, open source WYSIWYG editor built for the modern web.
+- [Sweet Alert 2](https://sweetalert2.github.io/) - A beautiful, responsive, customisable, accessible replacement for Javascript’s popup boxes.
+- [Formik](https://formik.org/) - Formik is the world's most popular open source form library for React and React Native.
+- [React Leaflet](https://react-leaflet.js.org/) - React components for Leaflet maps.
+- [React Circular Slider](https://marc.khouri.ca/react-circular-slider/) - A full-featured circular slider React component, with full TypeScript definitions.
+- [ChromaJS](https://gka.github.io/chroma.js/) - A small-ish zero-dependency JavaScript library for all kinds of color conversions and color scales.
+- [UUID](https://github.com/uuidjs/uuid) - JavaScript library for generating random id numbers.
+- [HTML React Parser](https://github.com/remarkablemark/html-react-parser) - A utility for converting HTML strings into React components.
+
+Let us know your thoughts below. And good luck with development!
 
 ## Table of Contents
 
-* [Versions](#versions)
-* [Demo](#demo)
-* [Quick Start](#quick-start)
-* [Documentation](#documentation)
-* [File Structure](#file-structure)
-* [Browser Support](#browser-support)
-* [Resources](#resources)
-* [Free Versions](#free-versions)
-* [Kit Versions](#kit-versions)
-* [Reporting Issues](#reporting-issues)
-* [Licensing](#licensing)
-* [Useful Links](#useful-links)
-
+- [Versions](#versions)
+- [Demo](#demo)
+- [Quick Start](#quick-start)
+- [Documentation](#documentation)
+- [File Structure](#file-structure)
+- [Browser Support](#browser-support)
+- [Resources](#resources)
+- [Reporting Issues](#reporting-issues)
+- [Technical Support or Questions](#technical-support-or-questions)
+- [Licensing](#licensing)
+- [Useful Links](#useful-links)
 
 ## Versions
 
-[<img src="https://raw.githubusercontent.com/creativetimofficial/public-assets/master/logos/icon-material-ui.jpg?raw=true" width="60" height="60" />](https://www.creative-tim.com/product/argon-dashboard-pro-material-ui?ref=adpmui-github-readme)[<img src="https://raw.githubusercontent.com/creativetimofficial/public-assets/master/logos/nextjs-logo.jpg" width="60" height="60" />](https://www.creative-tim.com/product/nextjs-argon-dashboard-pro?ref=adpmui-github-readme)[<img src="https://raw.githubusercontent.com/creativetimofficial/public-assets/master/logos/nodejs-logo.jpg" width="60" height="60" />](https://www.creative-tim.com/product/argon-dashboard-pro-nodejs?ref=adpmui-github-readme)[<img style="background:white" src="https://raw.githubusercontent.com/creativetimofficial/public-assets/master/logos/react-logo.jpg" width="60" height="60" />](https://www.creative-tim.com/product/argon-dashboard-pro-react?ref=adpmui-github-readme)[<img style="background:white" src="https://raw.githubusercontent.com/creativetimofficial/public-assets/master/logos/angular-logo.jpg" width="60" height="60" />](https://www.creative-tim.com/product/argon-dashboard-pro-angular?ref=adpmui-github-readme)[<img style="background:white" src="https://raw.githubusercontent.com/creativetimofficial/public-assets/master/logos/react-native-logo.jpg" width="60" height="60" />](https://www.creative-tim.com/product/argon-pro-react-native?ref=adpmui-github-readme)[<img style="background:white" src="https://raw.githubusercontent.com/creativetimofficial/public-assets/master/logos/vue-logo.jpg" width="60" height="60" />](https://www.creative-tim.com/product/vue-argon-dashboard-pro?ref=adpmui-github-readme)[<img style="background:white" src="https://raw.githubusercontent.com/creativetimofficial/public-assets/master/logos/laravel-logo.jpg" width="60" height="60" />](https://www.creative-tim.com/product/argon-dashboard-pro-laravel?ref=adpmui-github-readme)[<img style="background:white" src="https://raw.githubusercontent.com/creativetimofficial/public-assets/master/logos/icon-bootstrap.jpg" width="60" height="60" />](https://www.creative-tim.com/product/argon-dashboard-pro?ref=adpmui-github-readme)[<img style="background:white" src="https://raw.githubusercontent.com/creativetimofficial/public-assets/master/logos/icon-bootstrapvue.jpg" width="60" height="60" />](https://www.creative-tim.com/product/bootstrap-vue-argon-dashboard-pro?ref=adpmui-github-readme)[<img style="background:white" src="https://raw.githubusercontent.com/creativetimofficial/public-assets/master/logos/nuxtjs-logo.jpg" width="60" height="60" />](https://www.creative-tim.com/product/nuxt-argon-dashboard-pro?ref=adpmui-github-readme)[<img style="background:white" src="https://raw.githubusercontent.com/creativetimofficial/public-assets/master/logos/svelte-logo.jpg" width="60" height="60" />](https://www.creative-tim.com/product/argon-dashboard-pro-svelte?ref=adpmui-github-readme)
+[<img src="https://raw.githubusercontent.com/creativetimofficial/public-assets/master/logos/react-logo.jpg?raw=true" width="60" height="60" />](https://www.creative-tim.com/product/argon-dashboard-pro-material-ui?ref=readme-adpmui)
 
+| React |
+| ----- |
 
-
-| Material-UI | NextJS | NodeJS | React  | Angular  | VueJS |
-| --- | --- | --- | --- | --- | --- |
-| [![Argon Dashboard PRO Material-UI](https://raw.githubusercontent.com/creativetimofficial/public-assets/master/argon-dashboard-pro-material-ui/argon-dashboard-pro-material-ui.jpg)](https://www.creative-tim.com/product/argon-dashboard-pro-material-ui) | [![NextJS Argon Dashboard PRO](https://raw.githubusercontent.com/creativetimofficial/public-assets/master/nextjs-argon-dashboard-pro/nextjs-argon-dashboard-pro.jpg)](https://www.creative-tim.com/product/nextjs-argon-dashboard-pro) | [![Argon Dashboard PRO Nodejs](https://raw.githubusercontent.com/creativetimofficial/public-assets/master/argon-dashboard-pro-nodejs/argon-dashboard-pro-nodejs.jpg)](https://www.creative-tim.com/product/argon-dashboard-pro-nodejs) | [![Argon Dashboard PRO React](https://raw.githubusercontent.com/creativetimofficial/public-assets/master/argon-dashboard-pro-react/argon-dashboard-pro-react.jpg)](https://www.creative-tim.com/product/argon-dashboard-pro-react) | [![Argon Dashboard PRO Angular](https://raw.githubusercontent.com/creativetimofficial/public-assets/master/argon-dashboard-pro-angular/opt_adp_angular_thumbnail.jpg)](https://www.creative-tim.com/product/argon-dashboard-pro-angular) | [![Vue Argon Dashboard PRO](https://raw.githubusercontent.com/creativetimofficial/public-assets/master/vue-argon-dashboard-pro/vue-argon-dashboard-pro.jpg)](https://www.creative-tim.com/product/vue-argon-dashboard-pro) |
-
-| React Native | Laravel | Bootstrap  | BootstrapVue  | Nuxt  | Svelte  |
-| --- | --- | --- | --- | --- | --- |
-| [![Argon PRO React Native](https://raw.githubusercontent.com/creativetimofficial/public-assets/master/argon-pro-react-native/argp-rn-thumbnail.jpg)](https://www.creative-tim.com/product/argon-pro-react-native) | [![Argon Dashboard PRO Laravel](https://raw.githubusercontent.com/creativetimofficial/public-assets/master/argon-dashboard-pro-laravel/argon-dashboard-pro-laravel.jpg)](https://www.creative-tim.com/product/argon-dashboard-pro-laravel) | [![Argon Dashboard PRO](https://raw.githubusercontent.com/creativetimofficial/public-assets/master/argon-dashboard-pro/argon-dashboard-pro.jpg)](https://www.creative-tim.com/product/argon-dashboard-pro) | [![BootstrapVue Argon Dashboard PRO](https://raw.githubusercontent.com/creativetimofficial/public-assets/master/bootstrap-vue-argon-dashboard-pro/opt_badp_thumbnail.jpg)](https://www.creative-tim.com/product/bootstrap-vue-argon-dashboard-pro) | [![Nuxt Argon Dashboard PRO](https://raw.githubusercontent.com/creativetimofficial/public-assets/master/nuxt-argon-dashboard-pro/nuxt-argon-dashboard-pro.jpg)](https://www.creative-tim.com/product/nuxt-argon-dashboard-pro) | [![Nuxt Argon Dashboard PRO](https://raw.githubusercontent.com/creativetimofficial/public-assets/master/argon-dashboard-pro-svelte/argon-dashboard-pro-svelte.jpg)](https://www.creative-tim.com/product/argon-dashboard-pro-svelte) |
-
-
+| [![Argon Dashboard 2 PRO MUI](https://s3.amazonaws.com/creativetim_bucket/products/449/thumb/argon-dashboard-pro-material-ui.jpg)](http://demos.creative-tim.com/argon-dashboard-pro-material-ui/#/dashboards/default?ref=readme-adpmui)
 
 ## Demo
 
-- [Start page](https://demos.creative-tim.com/argon-dashboard-pro-material-ui/#/admin/dashboard?ref=adpmui-github-readme)
-- [User profile page](https://demos.creative-tim.com/argon-dashboard-pro-material-ui/#/admin/profile?ref=adpmui-github-readme)
-- [Tables page ](https://demos.creative-tim.com/argon-dashboard-pro-material-ui/#/admin/tables?ref=adpmui-github-readme)
-- [Maps Page](https://demos.creative-tim.com/argon-dashboard-pro-material-ui/#/admin/maps)
-- [Login page](https://demos.creative-tim.com/argon-dashboard-pro-material-ui/#/auth/login?ref=adpmui-github-readme)
+- [Dashboard](http://demos.creative-tim.com/argon-dashboard-pro-material-ui/#/dashboards/default?ref=readme-adpmui)
+- [Automotive](http://demos.creative-tim.com/argon-dashboard-pro-material-ui/#/dashboards/automotive?ref=readme-adpmui)
+- [Virtual Reality](http://demos.creative-tim.com/argon-dashboard-pro-material-ui/#/dashboards/virtual-reality/default?ref=readme-adpmui)
+- [Profile](https://demos.creative-tim.com/argon-dashboard-pro-material-ui/#/pages/profile/profile-overview?ref=readme-adpmui)
+- [Account](https://demos.creative-tim.com/argon-dashboard-pro-material-ui/#/pages/account/settings?ref=readme-adpmui)
+- [RTL](https://demos.creative-tim.com/argon-dashboard-pro-material-ui/#/pages/rtl?ref=readme-adpmui)
+- [Applications](https://demos.creative-tim.com/argon-dashboard-pro-material-ui/#/applications/kanban?ref=readme-adpmui)
+- [Ecommerce](https://demos.creative-tim.com/argon-dashboard-pro-material-ui/#/ecommerce/overview?ref=readme-adpmui)
+- [Sign In](https://demos.creative-tim.com/argon-dashboard-pro-material-ui/#/authentication/sign-in/basic?ref=readme-adpmui)
+- [Sign Up](https://demos.creative-tim.com/argon-dashboard-pro-material-ui/#/authentication/sign-up/basic?ref=readme-adpmui)
 
-[View More](https://demos.creative-tim.com/argon-dashboard-pro-material-ui/#/admin/dashboard?ref=adpmui-github-readme).
-
+[View More](https://demos.creative-tim.com/argon-dashboard-pro-material-ui/#/dashboards/default?ref=readme-adpmui).
 
 ## Quick start
 
-- [Purchase from Creative Tim](https://www.creative-tim.com/product/argon-dashboard-pro-material-ui?ref=adpmui-github-readme).
+Quick start options:
 
+- Buy from [Creative Tim](https://www.creative-tim.com/product/argon-dashboard-pro-material-ui?ref=readme-adpmui).
+
+## Terminal Commands
+
+1. Download and Install NodeJs LTS version from [NodeJs Official Page](https://nodejs.org/en/download/).
+2. Navigate to the root ./ directory of the product and run `yarn install` or `npm install` to install our local dependencies.
 
 ## Documentation
-The documentation for the Material Kit is hosted at our [website](https://www.creative-tim.com/learning-lab/material-ui/overview/argon-dashboard).
 
+The documentation for the Argon Dashboard 2 PRO MUI is hosted at our [website](https://www.creative-tim.com/learning-lab/material-ui/overview/argon-dashboard/?ref=readme-adpmui).
 
-## File Structure
+### What's included
+
 Within the download you'll find the following directories and files:
 
 ```
-Argon Dashboard PRO Material-UI
-.
-├── CHANGELOG.md
-├── Documentation
-│   ├── assets
-│   │   ├── css
-│   │   │   ├── argon-dashboard-react.css
-│   │   │   ├── argon-dashboard-react.css.map
-│   │   │   └── argon-dashboard-react.min.css
-│   │   └── img
-│   │       └── theme
-│   └── documentation.html
-├── ISSUE_TEMPLATE.md
-├── README.md
-├── commit.sh
-├── gulpfile.js
-├── jsconfig.json
-├── package.json
-├── public
-│   ├── favicon.ico
-│   ├── index.html
-│   └── manifest.json
-└── src
-    ├── assets
-    │   ├── css
-    │   │   ├── argon-dashboard-pro-material-ui.css
-    │   │   ├── argon-dashboard-pro-material-ui.css.map
-    │   │   └── argon-dashboard-pro-material-ui.min.css
-    │   ├── fonts
-    │   │   ├── nucleo.eot
-    │   │   ├── nucleo.ttf
-    │   │   ├── nucleo.woff
-    │   │   └── nucleo.woff2
-    │   ├── img
-    │   │   ├── brand
-    │   │   ├── icons
-    │   │   │   ├── cards
-    │   │   │   ├── common
-    │   │   │   │   ├── github.svg
-    │   │   │   │   └── google.svg
-    │   │   │   └── flags
-    │   │   └── theme
-    │   ├── plugins
-    │   │   └── nucleo
-    │   │       ├── css
-    │   │       │   ├── nucleo-svg.css
-    │   │       │   └── nucleo.css
-    │   │       └── fonts
-    │   │           ├── nucleo-icons.eot
-    │   │           ├── nucleo-icons.svg
-    │   │           ├── nucleo-icons.ttf
-    │   │           ├── nucleo-icons.woff
-    │   │           └── nucleo-icons.woff2
-    │   ├── scss
-    │   │   ├── argon-dashboard-pro-material-ui.scss
-    │   │   ├── bootstrap-rtl
-    │   │   │   └── bootstrap-rtl.scss
-    │   │   ├── core
-    │   │   │   ├── alerts
-    │   │   │   │   ├── _alert-dismissible.scss
-    │   │   │   │   ├── _alert-notify.scss
-    │   │   │   │   └── _alert.scss
-    │   │   │   ├── avatars
-    │   │   │   │   ├── _avatar-group.scss
-    │   │   │   │   └── _avatar.scss
-    │   │   │   ├── badges
-    │   │   │   │   ├── _badge-circle.scss
-    │   │   │   │   ├── _badge-dot.scss
-    │   │   │   │   ├── _badge-floating.scss
-    │   │   │   │   └── _badge.scss
-    │   │   │   ├── breadcrumbs
-    │   │   │   │   └── _breadcrumb.scss
-    │   │   │   ├── buttons
-    │   │   │   │   ├── _button-brand.scss
-    │   │   │   │   ├── _button-group.scss
-    │   │   │   │   ├── _button-icon.scss
-    │   │   │   │   └── _button.scss
-    │   │   │   ├── cards
-    │   │   │   │   ├── _card-animations.scss
-    │   │   │   │   ├── _card-blockquote.scss
-    │   │   │   │   ├── _card-money.scss
-    │   │   │   │   ├── _card-pricing.scss
-    │   │   │   │   ├── _card-profile.scss
-    │   │   │   │   ├── _card-stats.scss
-    │   │   │   │   └── _card.scss
-    │   │   │   ├── charts
-    │   │   │   │   └── _chart.scss
-    │   │   │   ├── close
-    │   │   │   │   └── _close.scss
-    │   │   │   ├── collapse
-    │   │   │   │   └── _accordion.scss
-    │   │   │   ├── content
-    │   │   │   │   └── _main-content.scss
-    │   │   │   ├── custom-forms
-    │   │   │   │   ├── _custom-checkbox.scss
-    │   │   │   │   ├── _custom-control.scss
-    │   │   │   │   ├── _custom-form.scss
-    │   │   │   │   ├── _custom-radio.scss
-    │   │   │   │   └── _custom-toggle.scss
-    │   │   │   ├── dropdowns
-    │   │   │   │   └── _dropdown.scss
-    │   │   │   ├── footers
-    │   │   │   │   └── _footer.scss
-    │   │   │   ├── forms
-    │   │   │   │   ├── _form-extend.scss
-    │   │   │   │   ├── _form-validation.scss
-    │   │   │   │   ├── _form.scss
-    │   │   │   │   └── _input-group.scss
-    │   │   │   ├── grid
-    │   │   │   │   └── _grid.scss
-    │   │   │   ├── headers
-    │   │   │   │   └── _header.scss
-    │   │   │   ├── icons
-    │   │   │   │   ├── _icon-actions.scss
-    │   │   │   │   ├── _icon-shape.scss
-    │   │   │   │   └── _icon.scss
-    │   │   │   ├── list-groups
-    │   │   │   │   ├── _list-check.scss
-    │   │   │   │   └── _list-group.scss
-    │   │   │   ├── maps
-    │   │   │   │   └── _map.scss
-    │   │   │   ├── masks
-    │   │   │   │   └── _mask.scss
-    │   │   │   ├── medias
-    │   │   │   │   ├── _media-comment.scss
-    │   │   │   │   └── _media.scss
-    │   │   │   ├── mixins
-    │   │   │   │   ├── _alert.scss
-    │   │   │   │   ├── _background-variant.scss
-    │   │   │   │   ├── _badge.scss
-    │   │   │   │   ├── _buttons.scss
-    │   │   │   │   ├── _custom-forms.scss
-    │   │   │   │   ├── _forms.scss
-    │   │   │   │   ├── _icon.scss
-    │   │   │   │   ├── _modals.scss
-    │   │   │   │   └── _popover.scss
-    │   │   │   ├── modals
-    │   │   │   │   └── _modal.scss
-    │   │   │   ├── navbars
-    │   │   │   │   ├── _navbar-collapse.scss
-    │   │   │   │   ├── _navbar-dropdown.scss
-    │   │   │   │   ├── _navbar-floating.scss
-    │   │   │   │   ├── _navbar-search.scss
-    │   │   │   │   ├── _navbar-top.scss
-    │   │   │   │   ├── _navbar-vertical.scss
-    │   │   │   │   └── _navbar.scss
-    │   │   │   ├── navs
-    │   │   │   │   ├── _nav-pills.scss
-    │   │   │   │   └── _nav.scss
-    │   │   │   ├── paginations
-    │   │   │   │   └── _pagination.scss
-    │   │   │   ├── popovers
-    │   │   │   │   └── _popover.scss
-    │   │   │   ├── progresses
-    │   │   │   │   └── _progress.scss
-    │   │   │   ├── reboot
-    │   │   │   │   └── _reboot.scss
-    │   │   │   ├── rtl
-    │   │   │   │   └── _rtl.scss
-    │   │   │   ├── sections
-    │   │   │   │   └── _nucleo-icons.scss
-    │   │   │   ├── separators
-    │   │   │   │   └── _separator.scss
-    │   │   │   ├── shortcuts
-    │   │   │   │   └── _shortcut.scss
-    │   │   │   ├── tables
-    │   │   │   │   ├── _table-actions.scss
-    │   │   │   │   ├── _table-sortable.scss
-    │   │   │   │   └── _table.scss
-    │   │   │   ├── timeline
-    │   │   │   │   └── _timeline.scss
-    │   │   │   ├── type
-    │   │   │   │   ├── _article.scss
-    │   │   │   │   ├── _display.scss
-    │   │   │   │   ├── _heading.scss
-    │   │   │   │   └── _type.scss
-    │   │   │   ├── utilities
-    │   │   │   │   ├── _backgrounds.scss
-    │   │   │   │   ├── _blurable.scss
-    │   │   │   │   ├── _floating.scss
-    │   │   │   │   ├── _helper.scss
-    │   │   │   │   ├── _image.scss
-    │   │   │   │   ├── _opacity.scss
-    │   │   │   │   ├── _overflow.scss
-    │   │   │   │   ├── _position.scss
-    │   │   │   │   ├── _shadows.scss
-    │   │   │   │   ├── _sizing.scss
-    │   │   │   │   ├── _spacing.scss
-    │   │   │   │   ├── _text.scss
-    │   │   │   │   └── _transform.scss
-    │   │   │   └── vendors
-    │   │   │       ├── _bootstrap-datepicker.scss
-    │   │   │       ├── _bootstrap-tagsinput.scss
-    │   │   │       ├── _chartjs.scss
-    │   │   │       ├── _datatables.scss
-    │   │   │       ├── _dropzone.scss
-    │   │   │       ├── _fullcalendar.scss
-    │   │   │       ├── _headroom.scss
-    │   │   │       ├── _jvectormap.scss
-    │   │   │       ├── _lavalamp.scss
-    │   │   │       ├── _nouislider.scss
-    │   │   │       ├── _plugin-datetimepicker.scss
-    │   │   │       ├── _quill.scss
-    │   │   │       ├── _scrollbar.scss
-    │   │   │       ├── _select2.scss
-    │   │   │       └── _sweet-alert-2.scss
-    │   │   ├── custom
-    │   │   │   ├── _components.scss
-    │   │   │   ├── _functions.scss
-    │   │   │   ├── _mixins.scss
-    │   │   │   ├── _utilities.scss
-    │   │   │   ├── _variables.scss
-    │   │   │   └── _vendors.scss
-    │   │   ├── material-ui
-    │   │   │   ├── material-ui-differences.scss
-    │   │   │   └── plugins
-    │   │   │       └── _plugin-list.scss
-    │   │   └── react
-    │   │       ├── _avatar-group.scss
-    │   │       ├── _badge.scss
-    │   │       ├── _buttons.scss
-    │   │       ├── _forms.scss
-    │   │       ├── _icon-actions.scss
-    │   │       ├── _input-group.scss
-    │   │       ├── _mixins.scss
-    │   │       ├── _navbar-dropdown.scss
-    │   │       ├── plugins
-    │   │       │   ├── _plugin-dropzone.scss
-    │   │       │   ├── _plugin-fullcalendar.scss
-    │   │       │   ├── _plugin-nouislider.scss
-    │   │       │   ├── _plugin-react-bootstrap-sweetalert.scss
-    │   │       │   ├── _plugin-react-bootstrap-table2.scss
-    │   │       │   ├── _plugin-react-datetime.scss
-    │   │       │   ├── _plugin-react-jvectormap.scss
-    │   │       │   ├── _plugin-react-notification-alert.scss
-    │   │       │   ├── _plugin-react-quill.scss
-    │   │       │   ├── _plugin-react-table.scss
-    │   │       │   └── _plugin-react-tagsinput.scss
-    │   │       └── react-differences.scss
-    │   └── theme
-    │       ├── box-shadow.js
-    │       ├── colors.js
-    │       ├── components
-    │       │   ├── badge.js
-    │       │   ├── button.js
-    │       │   ├── card-img.js
-    │       │   ├── card-stats.js
-    │       │   ├── cards
-    │       │   │   ├── alternative
-    │       │   │   │   ├── card-info-bg.js
-    │       │   │   │   ├── card-page-visits-alternative.js
-    │       │   │   │   ├── card-progress-track-alternative.js
-    │       │   │   │   ├── card-real-time.js
-    │       │   │   │   └── card-sales-value-alternative.js
-    │       │   │   ├── card-deck.js
-    │       │   │   ├── card-group.js
-    │       │   │   ├── cards
-    │       │   │   │   ├── card-bg-image.js
-    │       │   │   │   ├── card-blog.js
-    │       │   │   │   ├── card-button.js
-    │       │   │   │   ├── card-header-action.js
-    │       │   │   │   ├── card-header-list.js
-    │       │   │   │   ├── card-header.js
-    │       │   │   │   ├── card-pricing-cards.js
-    │       │   │   │   ├── card-pricing-gradient-cards.js
-    │       │   │   │   ├── card-profile-cards.js
-    │       │   │   │   ├── card-team-member-info.js
-    │       │   │   │   ├── card-team-member.js
-    │       │   │   │   └── card-testimonial.js
-    │       │   │   ├── charts
-    │       │   │   │   ├── card-affiliate-traffic.js
-    │       │   │   │   ├── card-audience-overview.js
-    │       │   │   │   ├── card-product-comparison.js
-    │       │   │   │   ├── card-sales-value-dots.js
-    │       │   │   │   └── card-total-orders.js
-    │       │   │   ├── dashboard
-    │       │   │   │   ├── card-activity-feed.js
-    │       │   │   │   ├── card-credit-details.js
-    │       │   │   │   ├── card-credit.js
-    │       │   │   │   ├── card-light-table.js
-    │       │   │   │   ├── card-page-visits.js
-    │       │   │   │   ├── card-progress-track.js
-    │       │   │   │   ├── card-sales-value.js
-    │       │   │   │   ├── card-social-traffic.js
-    │       │   │   │   ├── card-team-members.js
-    │       │   │   │   └── card-to-do-list.js
-    │       │   │   ├── index
-    │       │   │   │   ├── card-info-badges.js
-    │       │   │   │   └── card-info.js
-    │       │   │   ├── pricing
-    │       │   │   │   ├── card-pricing-gradient.js
-    │       │   │   │   └── card-pricing.js
-    │       │   │   ├── profile
-    │       │   │   │   └── card-profile.js
-    │       │   │   ├── sortable
-    │       │   │   │   ├── card-dark-table-sortable.js
-    │       │   │   │   ├── card-light-table-sortable.js
-    │       │   │   │   └── card-translucent-table-sortable.js
-    │       │   │   ├── tables
-    │       │   │   │   └── card-light-table-tables.js
-    │       │   │   └── widgets
-    │       │   │       ├── card-calendar.js
-    │       │   │       ├── card-credit-inputs.js
-    │       │   │       ├── card-credit-number.js
-    │       │   │       ├── card-credit-simple.js
-    │       │   │       ├── card-latest-messages.js
-    │       │   │       ├── card-latest-notifications.js
-    │       │   │       ├── card-stats-gradient.js
-    │       │   │       └── card-team-members-search.js
-    │       │   ├── dialog.js
-    │       │   ├── dropdowns
-    │       │   │   ├── apps-dropdown-alternative.js
-    │       │   │   ├── apps-dropdown.js
-    │       │   │   ├── notifications-dropdown-alternative.js
-    │       │   │   ├── notifications-dropdown.js
-    │       │   │   ├── user-dropdown-alternative.js
-    │       │   │   └── user-dropdown.js
-    │       │   ├── footers
-    │       │   │   ├── admin-footer.js
-    │       │   │   └── auth-footer.js
-    │       │   ├── forms.js
-    │       │   ├── headers
-    │       │   │   ├── alternative-header.js
-    │       │   │   ├── auth-header.js
-    │       │   │   ├── index-header.js
-    │       │   │   ├── simple-header.js
-    │       │   │   ├── stats-header.js
-    │       │   │   └── user-header.js
-    │       │   ├── linear-progress.js
-    │       │   ├── navbars
-    │       │   │   ├── admin-navbar-alternative.js
-    │       │   │   ├── admin-navbar.js
-    │       │   │   ├── auth-navbar.js
-    │       │   │   └── index-navbar.js
-    │       │   ├── sidebar.js
-    │       │   ├── snackbar.js
-    │       │   ├── switch.js
-    │       │   ├── tabs.js
-    │       │   └── typography.js
-    │       ├── hex-to-rgb.js
-    │       ├── layouts
-    │       │   ├── admin.js
-    │       │   ├── auth.js
-    │       │   └── rtl.js
-    │       ├── theme-rtl.js
-    │       ├── theme.js
-    │       └── views
-    │           ├── admin
-    │           │   ├── alternative-dashboard.js
-    │           │   ├── buttons.js
-    │           │   ├── calendar.js
-    │           │   ├── cards.js
-    │           │   ├── components.js
-    │           │   ├── dashboard.js
-    │           │   ├── elements.js
-    │           │   ├── google.js
-    │           │   ├── grid.js
-    │           │   ├── icons.js
-    │           │   ├── notifications.js
-    │           │   ├── profile.js
-    │           │   ├── react-bs-table.js
-    │           │   ├── sortable.js
-    │           │   ├── tables.js
-    │           │   ├── timeline.js
-    │           │   ├── typography.js
-    │           │   ├── validation.js
-    │           │   ├── vector.js
-    │           │   └── widgets.js
-    │           ├── auth
-    │           │   ├── lock.js
-    │           │   ├── login.js
-    │           │   ├── pricing.js
-    │           │   └── register.js
-    │           ├── index.js
-    │           └── rtl
-    │               └── rtl.js
-    ├── components
-    │   ├── Cards
-    │   │   ├── Alternative
-    │   │   │   ├── CardInfoBg.js
-    │   │   │   ├── CardPageVisitsAlternative.js
-    │   │   │   ├── CardProgressTrackAlternative.js
-    │   │   │   ├── CardRealTime.js
-    │   │   │   └── CardSalesValueAlternative.js
-    │   │   ├── Cards
-    │   │   │   ├── CardBgImage.js
-    │   │   │   ├── CardBlog.js
-    │   │   │   ├── CardButton.js
-    │   │   │   ├── CardHeader.js
-    │   │   │   ├── CardHeaderAction.js
-    │   │   │   ├── CardHeaderList.js
-    │   │   │   ├── CardPricingCards.js
-    │   │   │   ├── CardPricingGradientCards.js
-    │   │   │   ├── CardProfileCards.js
-    │   │   │   ├── CardTeamMember.js
-    │   │   │   ├── CardTeamMemberInfo.js
-    │   │   │   └── CardTestimonial.js
-    │   │   ├── Charts
-    │   │   │   ├── CardAffiliateTraffic.js
-    │   │   │   ├── CardAudienceOverview.js
-    │   │   │   ├── CardProductComparison.js
-    │   │   │   ├── CardSalesValueDots.js
-    │   │   │   └── CardTotalOrders.js
-    │   │   ├── Dashboard
-    │   │   │   ├── CardActivityFeed.js
-    │   │   │   ├── CardCredit.js
-    │   │   │   ├── CardCreditDetails.js
-    │   │   │   ├── CardLightTable.js
-    │   │   │   ├── CardPageVisits.js
-    │   │   │   ├── CardProgressTrack.js
-    │   │   │   ├── CardSalesValue.js
-    │   │   │   ├── CardSocialTraffic.js
-    │   │   │   ├── CardStats.js
-    │   │   │   ├── CardTeamMembers.js
-    │   │   │   └── CardToDoList.js
-    │   │   ├── Index
-    │   │   │   ├── CardInfo.js
-    │   │   │   └── CardInfoBadges.js
-    │   │   ├── Pricing
-    │   │   │   ├── CardPricing.js
-    │   │   │   └── CardPricingGradient.js
-    │   │   ├── Profile
-    │   │   │   └── CardProfile.js
-    │   │   ├── Sortable
-    │   │   │   ├── CardDarkTableSortable.js
-    │   │   │   ├── CardLightTableSortable.js
-    │   │   │   └── CardTranslucentTableSortable.js
-    │   │   ├── Tables
-    │   │   │   ├── CardCheckboxes.js
-    │   │   │   ├── CardCheckboxesColors.js
-    │   │   │   ├── CardDarkTableTables.js
-    │   │   │   ├── CardInlineActions.js
-    │   │   │   ├── CardInlineActionsStripped.js
-    │   │   │   ├── CardLightTableTables.js
-    │   │   │   └── CardTranslucentTableTables.js
-    │   │   └── Widgets
-    │   │       ├── CardCalendar.js
-    │   │       ├── CardCreditInputs.js
-    │   │       ├── CardCreditNumber.js
-    │   │       ├── CardCreditSimple.js
-    │   │       ├── CardLatestMessages.js
-    │   │       ├── CardLatestNotifications.js
-    │   │       ├── CardStatsGradient.js
-    │   │       └── CardTeamMembersSearch.js
-    │   ├── Dropdowns
-    │   │   ├── AppsDropdown.js
-    │   │   ├── AppsDropdownAlternative.js
-    │   │   ├── NotificationsDropdown.js
-    │   │   ├── NotificationsDropdownAlternative.js
-    │   │   ├── UserDropdown.js
-    │   │   └── UserDropdownAlternative.js
-    │   ├── Footers
-    │   │   ├── AdminFooter.js
-    │   │   └── AuthFooter.js
-    │   ├── Headers
-    │   │   ├── AlternativeHeader.js
-    │   │   ├── AuthHeader.js
-    │   │   ├── IndexHeader.js
-    │   │   ├── SimpleHeader.js
-    │   │   ├── StatsHeader.js
-    │   │   └── UserHeader.js
-    │   ├── Navbars
-    │   │   ├── AdminNavbar.js
-    │   │   ├── AdminNavbarAlternative.js
-    │   │   ├── AuthNavbar.js
-    │   │   └── IndexNavbar.js
-    │   ├── Sidebar
-    │   │   └── Sidebar.js
-    │   └── TagsInput
-    │       └── TagsInput.js
-    ├── index.js
-    ├── layouts
-    │   ├── Admin.js
-    │   ├── Auth.js
-    │   └── RTL.js
-    ├── routes.js
-    ├── variables
-    │   └── charts.js
-    └── views
-        ├── Index.js
-        ├── admin
-        │   ├── Calendar.js
-        │   ├── Charts.js
-        │   ├── Components
-        │   │   ├── Buttons.js
-        │   │   ├── Cards.js
-        │   │   ├── Grid.js
-        │   │   ├── Icons.js
-        │   │   ├── Notifications.js
-        │   │   └── Typography.js
-        │   ├── Dashboards
-        │   │   ├── AlternativeDashboard.js
-        │   │   └── Dashboard.js
-        │   ├── Examples
-        │   │   ├── Profile.js
-        │   │   └── Timeline.js
-        │   ├── Forms
-        │   │   ├── Components.js
-        │   │   ├── Elements.js
-        │   │   └── Validation.js
-        │   ├── Maps
-        │   │   ├── Google.js
-        │   │   └── Vector.js
-        │   ├── Tables
-        │   │   ├── ReactBSTable.js
-        │   │   ├── Sortable.js
-        │   │   └── Tables.js
-        │   └── Widgets.js
-        ├── auth
-        │   ├── Lock.js
-        │   ├── Login.js
-        │   ├── Pricing.js
-        │   └── Register.js
-        └── rtl
-            └── RTL.js
+argon-dashboard-pro-material-ui
+    ├── public
+    │   ├── apple-icon.png
+    │   ├── favicon.png
+    │   ├── index.html
+    │   ├── manifest.json
+    │   └── robots.txt
+    ├── src
+    │   ├── assets
+    │   │   ├── css
+    │   │   ├── fonts
+    │   │   ├── images
+    │   │   ├── theme
+    │   │   │   ├── base
+    │   │   │   ├── components
+    │   │   │   ├── functions
+    │   │   │   ├── index.js
+    │   │   │   └── theme-rtl.js
+    │   │   └── theme-dark
+    │   │       ├── base
+    │   │       ├── components
+    │   │       ├── functions
+    │   │       ├── index.js
+    │   │       └── theme-rtl.js
+    │   ├── components
+    │   │   ├── ArgonAlert
+    │   │   ├── ArgonAvatar
+    │   │   ├── ArgonBadge
+    │   │   ├── ArgonBadgeDot
+    │   │   ├── ArgonBox
+    │   │   ├── ArgonButton
+    │   │   ├── ArgonDatePicker
+    │   │   ├── ArgonDropzone
+    │   │   ├── ArgonEditor
+    │   │   ├── ArgonInput
+    │   │   ├── ArgonPagination
+    │   │   ├── ArgonProgress
+    │   │   ├── ArgonSelect
+    │   │   ├── ArgonSnackbar
+    │   │   ├── ArgonSocialButton
+    │   │   ├── ArgonTagInput
+    │   │   └── ArgonTypography
+    │   ├── context
+    │   ├── examples
+    │   │   ├── Breadcrumbs
+    │   │   ├── Calendar
+    │   │   ├── Cards
+    │   │   ├── Charts
+    │   │   ├── Configurator
+    │   │   ├── Footer
+    │   │   ├── Globe
+    │   │   ├── Icons
+    │   │   ├── Items
+    │   │   ├── LayoutContainers
+    │   │   ├── Lists
+    │   │   ├── Navbars
+    │   │   ├── Sidenav
+    │   │   ├── Tables
+    │   │   └── Timeline
+    │   ├── layouts
+    │   │   ├── applications
+    │   │   │    ├── analytics
+    │   │   │    ├── calendar
+    │   │   │    ├── data-tables
+    │   │   │    ├── kanban
+    │   │   │    └── wizard
+    │   │   ├── authentication
+    │   │   │    ├── 2-step-verification
+    │   │   │    ├── components
+    │   │   │    ├── error
+    │   │   │    ├── lock
+    │   │   │    ├── reset-password
+    │   │   │    ├── sign-in
+    │   │   │    └── sign-up
+    │   │   ├── dashboards
+    │   │   │    ├── automotive
+    │   │   │    ├── crm
+    │   │   │    ├── default
+    │   │   │    ├── landing
+    │   │   │    ├── smart-home
+    │   │   │    └── virtual-reality
+    │   │   ├── ecommerce
+    │   │   │    ├── orders
+    │   │   │    ├── overview
+    │   │   │    ├── products
+    │   │   │    └── referral
+    │   │   └── pages
+    │   │        ├── account
+    │   │        ├── charts
+    │   │        ├── notifications
+    │   │        ├── pricing-page
+    │   │        ├── profile
+    │   │        ├── projects
+    │   │        ├── rtl
+    │   │        ├── sweet-alerts
+    │   │        ├── users
+    │   │        └── widgets
+    │   ├── App.js
+    │   ├── index.js
+    │   ├── page.routes.js
+    │   └── routes.js
+    ├── .eslintrc.json
+    ├── .prettierrc.json
+    ├── CHANGELOG.md
+    ├── ISSUE_TEMPLATE.md
+    ├── jsconfig.json
+    ├── package.json
+    └── README.md
 ```
-
 
 ## Browser Support
 
 At present, we officially aim to support the last two versions of the following browsers:
 
-<img src="https://github.com/creativetimofficial/public-assets/blob/master/logos/chrome-logo.png?raw=true" width="64" height="64"> <img src="https://raw.githubusercontent.com/creativetimofficial/public-assets/master/logos/firefox-logo.png" width="64" height="64"> <img src="https://raw.githubusercontent.com/creativetimofficial/public-assets/master/logos/edge-logo.png" width="64" height="64"> <img src="https://raw.githubusercontent.com/creativetimofficial/public-assets/master/logos/safari-logo.png" width="64" height="64"> <img src="https://raw.githubusercontent.com/creativetimofficial/public-assets/master/logos/opera-logo.png" width="64" height="64">
-
-
+<img src="https://s3.amazonaws.com/creativetim_bucket/github/browser/chrome.png" width="64" height="64"> <img src="https://s3.amazonaws.com/creativetim_bucket/github/browser/firefox.png" width="64" height="64"> <img src="https://s3.amazonaws.com/creativetim_bucket/github/browser/edge.png" width="64" height="64"> <img src="https://s3.amazonaws.com/creativetim_bucket/github/browser/safari.png" width="64" height="64"> <img src="https://s3.amazonaws.com/creativetim_bucket/github/browser/opera.png" width="64" height="64">
 
 ## Resources
-- Demo: <https://demos.creative-tim.com/argon-dashboard-pro-material-ui/admin/dashboard?ref=adpmui-github-readme>
-- Download Page: <https://www.creative-tim.com/product/argon-dashboard-pro-material-ui?ref=adpmui-github-readme>
-- Documentation: <https://www.creative-tim.com/learning-lab/nextjs/overview/argon-dashboard?ref=adpmui-github-readme>
-- License Agreement: <https://www.creative-tim.com/license?ref=adpmui-github-readme>
-- Support: <https://www.creative-tim.com/contact-us?ref=adpmui-github-readme>
-- Issues: [Github Issues Page](https://github.com/creativetimofficial/ct-argon-dashboard-pro-material-ui/issues?ref=creativetim)
 
-### Free Versions
-
-[<img src="https://raw.githubusercontent.com/creativetimofficial/public-assets/master/logos/icon-material-ui.jpg?raw=true" width="60" height="60" />](https://www.creative-tim.com/product/argon-dashboard-material-ui?ref=adpmui-github-readme)[<img src="https://github.com/creativetimofficial/public-assets/blob/master/logos/aspnet-logo.jpg?raw=true" width="60" height="60" />](https://www.creative-tim.com/product/argon-dashboard-asp-net?ref=adpmui-github-readme)[<img src="https://raw.githubusercontent.com/creativetimofficial/public-assets/master/logos/nodejs-logo.jpg" width="60" height="60" />](https://www.creative-tim.com/product/argon-dashboard-nodejs?ref=adpmui-github-readme)[<img style="background:white" src="https://raw.githubusercontent.com/creativetimofficial/public-assets/master/logos/react-logo.jpg" width="60" height="60" />](https://www.creative-tim.com/product/argon-dashboard-react?ref=adpmui-github-readme)[<img style="background:white" src="https://raw.githubusercontent.com/creativetimofficial/public-assets/master/logos/angular-logo.jpg" width="60" height="60" />](https://www.creative-tim.com/product/argon-dashboard-angular?ref=adpmui-github-readme)[<img style="background:white" src="https://raw.githubusercontent.com/creativetimofficial/public-assets/master/logos/react-native-logo.jpg" width="60" height="60" />](https://www.creative-tim.com/product/argon-react-native?ref=adpmui-github-readme)[<img style="background:white" src="https://raw.githubusercontent.com/creativetimofficial/public-assets/master/logos/vue-logo.jpg" width="60" height="60" />](https://www.creative-tim.com/product/vue-argon-dashboard?ref=adpmui-github-readme)[<img style="background:white" src="https://raw.githubusercontent.com/creativetimofficial/public-assets/master/logos/laravel-logo.jpg" width="60" height="60" />](https://www.creative-tim.com/product/argon-dashboard-laravel?ref=adpmui-github-readme)[<img style="background:white" src="https://raw.githubusercontent.com/creativetimofficial/public-assets/master/logos/icon-bootstrap.jpg" width="60" height="60" />](https://www.creative-tim.com/product/argon-dashboard?ref=adpmui-github-readme)[<img style="background:white" src="https://raw.githubusercontent.com/creativetimofficial/public-assets/master/logos/icon-bootstrapvue.jpg" width="60" height="60" />](https://www.creative-tim.com/product/bootstrap-vue-argon-dashboard?ref=adpmui-github-readme)[<img style="background:white" src="https://raw.githubusercontent.com/creativetimofficial/public-assets/master/logos/django-logo.jpg" width="60" height="60" />](https://www.creative-tim.com/product/argon-dashboard-django?ref=adpmui-github-readme)
-
-
-
-| Material-UI | NextJS | ASP.NET | NodeJS | React  | Angular  |
-| --- | --- | --- | --- | --- | --- |
-| [![Argon Dashboard Material-UI](https://raw.githubusercontent.com/creativetimofficial/public-assets/master/argon-dashboard-material-ui/argon-dashboard-material-ui.jpg)](https://www.creative-tim.com/product/argon-dashboard-material-ui) | [![Argon Dashboard Asp.net](https://raw.githubusercontent.com/creativetimofficial/public-assets/master/nextjs-argon-dashboard/nextjs-argon-dashboard.jpg)](https://www.creative-tim.com/product/nextjs-argon-dashboard) | [![Argon Dashboard Asp.net](https://raw.githubusercontent.com/creativetimofficial/public-assets/master/argon-dashboard-aspnet/argon-dashboard-aspnet.jpg)](https://www.creative-tim.com/product/argon-dashboard-asp-net) | [![Argon Dashboard Nodejs](https://raw.githubusercontent.com/creativetimofficial/public-assets/master/argon-dashboard-nodejs/argon-dashboard-nodejs.jpg)](https://www.creative-tim.com/product/argon-dashboard-nodejs) | [![Argon Dashboard React](https://raw.githubusercontent.com/creativetimofficial/public-assets/master/argon-dashboard-react/argon-dashboard-react.jpg)](https://www.creative-tim.com/product/argon-dashboard-react) | [![Argon Dashboard Angular](https://raw.githubusercontent.com/creativetimofficial/public-assets/master/argon-dashboard-angular/argon-dashboard-angular.jpg)](https://www.creative-tim.com/product/argon-dashboard-angular) |
-
-| React Native | VueJS | Laravel | Bootstrap  | BootstrapVue  | Django  |
-| --- | --- | --- | --- | --- | --- |
-| [![Argon React Native](https://raw.githubusercontent.com/creativetimofficial/public-assets/master/argon-react-native/arg-rn-thumbnail.jpg)](https://www.creative-tim.com/product/argon-react-native) | [![Vue Argon Dashboard](https://raw.githubusercontent.com/creativetimofficial/public-assets/master/vue-argon-dashboard/vue-argon-dashboard.jpg)](https://www.creative-tim.com/product/vue-argon-dashboard) | [![Argon Dashboard Laravel](https://raw.githubusercontent.com/creativetimofficial/public-assets/master/argon-dashboard-laravel/argon-dashboard-laravel.jpg)](https://www.creative-tim.com/product/argon-dashboard-laravel) | [![Argon Dashboard](https://raw.githubusercontent.com/creativetimofficial/public-assets/master/argon-dashboard/argon-dashboard.jpg)](https://www.creative-tim.com/product/argon-dashboard) | [![BootstrapVue Argon Dashboard](https://raw.githubusercontent.com/creativetimofficial/public-assets/master/bootstrap-vue-argon-dashboard/bootstrap-vue-argon-dashboard.jpg)](https://www.creative-tim.com/product/bootstrap-vue-argon-dashboard) | [![Argon Dashboard Django](https://raw.githubusercontent.com/creativetimofficial/public-assets/master/argon-dashboard-django/argon-dashboard-django.jpg)](https://www.creative-tim.com/product/argon-dashboard-django) |
-
-### Kit Versions
-
-#### FREE Kit Versions
-
-[<img src="https://github.com/creativetimofficial/public-assets/blob/master/logos/html-logo.jpg?raw=true" width="60" height="60" />](https://www.creative-tim.com/product/argon-design-system?ref=adpmui-github-readme)[<img src="https://github.com/creativetimofficial/public-assets/blob/master/logos/angular-logo.jpg?raw=true" width="60" height="60" />](https://www.creative-tim.com/product/argon-design-system-angular?ref=adpmui-github-readme)[<img src="https://github.com/creativetimofficial/public-assets/blob/master/logos/react-logo.jpg?raw=true" width="60" height="60" />](https://www.creative-tim.com/product/argon-design-system-react?ref=adpmui-github-readme)[<img src="https://github.com/creativetimofficial/public-assets/blob/master/logos/vue-logo.jpg?raw=true" width="60" height="60" />](https://www.creative-tim.com/product/vue-argon-design-system?ref=adpmui-github-readme)
-
-| HTML | Angular | React  | VueJS  |
-| --- | --- | --- | --- |
-| [![Argon Design System PRO HTML](https://github.com/creativetimofficial/public-assets/blob/master/argon-design-system/argon-design-system.jpg?raw=true)](https://www.creative-tim.com/product/argon-design-system?ref=adpmui-github-readme)  | [![Argon Design System PRO Angular](https://github.com/creativetimofficial/public-assets/blob/master/argon-design-system-angular/argon-design-system-angular.jpg?raw=true)](https://www.creative-tim.com/product/argon-design-system-angular?ref=adpmui-github-readme)  | [![Argon Design System PRO React](https://github.com/creativetimofficial/public-assets/blob/master/argon-design-system-react/argon-design-system-react.jpg?raw=true)](https://www.creative-tim.com/product/argon-design-system-react?ref=adpmui-github-readme)  | [![Argon Design System PRO React](https://raw.githubusercontent.com/creativetimofficial/public-assets/master/vue-argon-design-system/vue-argon-design-system.jpg)](https://www.creative-tim.com/product/vue-argon-design-system?ref=adpmui-github-readme)|
-
-#### PRO Kit Versions
-
-[<img src="https://github.com/creativetimofficial/public-assets/blob/master/logos/html-logo.jpg?raw=true" width="60" height="60" />](https://www.creative-tim.com/product/argon-design-system-pro?ref=adpmui-github-readme)[<img src="https://github.com/creativetimofficial/public-assets/blob/master/logos/angular-logo.jpg?raw=true" width="60" height="60" />](https://www.creative-tim.com/product/argon-design-system-pro-angular?ref=adpmui-github-readme)[<img src="https://github.com/creativetimofficial/public-assets/blob/master/logos/react-logo.jpg?raw=true" width="60" height="60" />](https://www.creative-tim.com/product/argon-design-system-pro-react?ref=adpmui-github-readme)[<img src="https://github.com/creativetimofficial/public-assets/blob/master/logos/vue-logo.jpg?raw=true" width="60" height="60" />](https://www.creative-tim.com/product/vue-argon-design-system-pro?ref=adpmui-github-readme)
-
-| HTML | Angular | React  | VueJS  |
-| --- | --- | --- | --- |
-| [![Argon Design System PRO HTML](https://github.com/creativetimofficial/public-assets/blob/master/argon-design-system-pro/argon-design-system-pro.jpg?raw=true)](https://www.creative-tim.com/product/argon-design-system-pro?ref=adpmui-github-readme)  | [![Argon Design System PRO Angular](https://github.com/creativetimofficial/public-assets/blob/master/argon-design-system-pro-angular/argon-design-system-pro-angular.jpg?raw=true)](https://www.creative-tim.com/product/argon-design-system-pro-angular?ref=adpmui-github-readme)  | [![Argon Design System PRO React](https://github.com/creativetimofficial/public-assets/blob/master/argon-design-system-pro-react/argon-design-system-pro-react.jpg?raw=true)](https://www.creative-tim.com/product/argon-design-system-pro-react?ref=adpmui-github-readme)  | [![Argon Design System PRO React](https://raw.githubusercontent.com/creativetimofficial/public-assets/master/vue-argon-design-system-pro/opt_adsp_vue_thumbnail.jpg)](https://www.creative-tim.com/product/vue-argon-design-system-pro?ref=adpmui-github-readme)|
+- [Live Preview](https://demos.creative-tim.com/argon-dashboard-pro-material-ui/#/dashboards/default?ref=readme-adpmui)
+- [Buy Page](https://www.creative-tim.com/product/argon-dashboard-pro-material-ui?ref=readme-adpmui)
+- Documentation is [here](https://www.creative-tim.com/learning-lab/material-ui/overview/argon-dashboard/?ref=readme-adpmui)
+- [License Agreement](https://www.creative-tim.com/license?ref=readme-adpmui)
+- [Support](https://www.creative-tim.com/contact-us?ref=readme-adpmui)
+- Issues: [Github Issues Page](https://github.com/creativetimofficial/ct-argon-dashboard-pro-material-ui/issues)
 
 ## Reporting Issues
 
-We use GitHub Issues as the official bug tracker for the Material Kit. Here are some advices for our users that want to report an issue:
+We use GitHub Issues as the official bug tracker for the Argon Dashboard 2 PRO MUI. Here are some advices for our users that want to report an issue:
 
-1. Make sure that you are using the latest version of the Material Kit. Check the CHANGELOG from your dashboard on our [website](https://www.creative-tim.com/?ref=adpmui-github-readme).
+1. Make sure that you are using the latest version of the Argon Dashboard 2 PRO MUI. Check the CHANGELOG from your dashboard on our [website](https://www.creative-tim.com/product/argon-dashboard-pro-material-ui?ref=readme-adpmui).
 2. Providing us reproducible steps for the issue will shorten the time it takes for it to be fixed.
 3. Some issues may be browser specific, so specifying in what browser you encountered the issue might help.
 
+## Technical Support or Questions
+
+If you have questions or need help integrating the product please [contact us](https://www.creative-tim.com/contact-us?ref=readme-adpmui) instead of opening an issue.
+
 ## Licensing
 
-- Copyright 2021 Creative Tim (https://www.creative-tim.com/?ref=adpmui-github-readme)
+- Copyright 2022 [Creative Tim](https://www.creative-tim.com?ref=readme-adpmui)
+- Creative Tim [license](https://www.creative-tim.com/license?ref=readme-adpmui)
 
 ## Useful Links
 
-- [Tutorials](https://www.youtube.com/channel/UCVyTG4sCw-rOvB9oHkzZD1w?ref=creativetim)
-- [Affiliate Program](https://www.creative-tim.com/affiliates/new?ref=adpmui-github-readme) (earn money)
-- [Blog Creative Tim](http://blog.creative-tim.com/?ref=adpmui-github-readme)
-- [Free Products](https://www.creative-tim.com/bootstrap-themes/free?ref=adpmui-github-readme) from Creative Tim
-- [Premium Products](https://www.creative-tim.com/bootstrap-themes/premium?ref=adpmui-github-readme) from Creative Tim
-- [React Products](https://www.creative-tim.com/bootstrap-themes/react-themes?ref=adpmui-github-readme) from Creative Tim
-- [Angular Products](https://www.creative-tim.com/bootstrap-themes/angular-themes?ref=adpmui-github-readme) from Creative Tim
-- [VueJS Products](https://www.creative-tim.com/bootstrap-themes/vuejs-themes?ref=adpmui-github-readme) from Creative Tim
-- [More products](https://www.creative-tim.com/bootstrap-themes?ref=adpmui-github-readme) from Creative Tim
-- Check our Bundles [here](https://www.creative-tim.com/bundles?ref=adpmui-github-readme)
+- [More products](https://www.creative-tim.com/templates?ref=readme-adpmui) from Creative Tim
 
-### Social Media
+- [Tutorials](https://www.youtube.com/channel/UCVyTG4sCw-rOvB9oHkzZD1w)
 
-Twitter: <https://twitter.com/CreativeTim?ref=creativetim>
+- [Freebies](https://www.creative-tim.com/bootstrap-themes/free?ref=readme-adpmui) from Creative Tim
 
-Facebook: <https://www.facebook.com/CreativeTim?ref=creativetim>
+- [Affiliate Program](https://www.creative-tim.com/affiliates/new?ref=readme-adpmui) (earn money)
 
-Dribbble: <https://dribbble.com/creativetim?ref=creativetim>
+##### Social Media
 
-Instagram: <https://www.instagram.com/CreativeTimOfficial?ref=creativetim>
+Twitter: <https://twitter.com/CreativeTim>
+
+Facebook: <https://www.facebook.com/CreativeTim>
+
+Dribbble: <https://dribbble.com/creativetim>
+
+Google+: <https://plus.google.com/+CreativetimPage>
+
+Instagram: <https://instagram.com/creativetimofficial>
